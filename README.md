@@ -1,1 +1,2 @@
-TRABAJO PRACTICO TdP
+TRABAJO PRACTICO Taller de Programacion en git
+edicion en github
