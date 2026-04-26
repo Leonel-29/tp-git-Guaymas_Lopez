@@ -1,2 +1,2 @@
 TRABAJO PRACTICO Taller de Programacion en git
-edicion en github
+ahora en github
